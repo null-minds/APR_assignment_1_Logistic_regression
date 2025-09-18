@@ -6,7 +6,7 @@ This project builds a logistic regression model to predict whether a user will p
 
 ---
 
-## 📌 Project Steps
+## Project Steps
 
 1. **Load the Data**  
    - The `Social_Network_Ads.csv` file was loaded into a Pandas DataFrame.
@@ -34,14 +34,14 @@ This project builds a logistic regression model to predict whether a user will p
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - The model achieved **good accuracy and precision** in predicting purchases.  
 - The recall shows the model successfully identified a significant portion of actual purchases, though there is **room for improvement**.  
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Compare performance with other classification models (e.g., SVM, Random Forest, KNN).  
 - Tune hyperparameters of the Logistic Regression model to improve recall.  
@@ -49,13 +49,13 @@ This project builds a logistic regression model to predict whether a user will p
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset used in this project is **`Social_Network_Ads.csv`**.  
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python  
 - Pandas, NumPy  
@@ -64,4 +64,4 @@ The dataset used in this project is **`Social_Network_Ads.csv`**.
 
 ---
 
-✅ This project demonstrates a complete ML pipeline: data preprocessing, model building, evaluation, and visualization.  
+## This project demonstrates a complete ML pipeline: data preprocessing, model building, evaluation, and visualization.  
